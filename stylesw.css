@@ -1,0 +1,28 @@
+.main{
+    background-color: lightgrey;
+    text-align: center;
+}
+#one{
+    border-radius: 100px;
+    color: red;
+    width: 120px;
+    text-align: ;
+    background-color: yellow;
+    display: inline-block;
+}
+.two{
+    border-radius: 100px;
+    width: 100px;
+    background-color:yellow;
+    color: red;
+    text-align: center;
+    display: inline-block;
+}
+.btn{
+    font-size: large;
+    width: 100px;
+    height: 50px;
+    color: red;
+    background-color: yellow;
+    border-radius: 100px;
+}
